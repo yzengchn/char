@@ -21,7 +21,8 @@ public class SysSend {
 			  } catch (IOException e) {
 			   e.printStackTrace();
 			  }
-			  System.out.println("输入数据："+read); 
+			  System.out.println("输入数据："+read);
+			  System.out.print("");
 		}
 	}
 }
